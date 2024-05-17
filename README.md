@@ -2,7 +2,7 @@
 
 Discover a world of visual wonders with Visual Inspirations! Our web app lets you explore a vast collection of stunning images, from majestic mountains to vibrant flowers, serene beaches, and bustling cities. Simply enter your search query or choose from our curated categories to embark on a journey of visual discovery. Whether you're seeking inspiration for your next project or simply want to immerse yourself in the beauty of photography, Visual Inspirations has something for everyone. Start exploring now and ignite your imagination!
 
-## Want to see our website have more curiosity of browsing movies then click here
+## Want to see our website have more curiosity of searching images then click here
 ## https://images-hub.vercel.app/
 
 #### Landing Page
