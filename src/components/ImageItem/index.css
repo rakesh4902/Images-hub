@@ -1,0 +1,29 @@
+.image-item {
+    position: relative;
+}
+  
+.image-item img {
+    width: 200px;
+    height: 200px;
+}
+  
+  
+.image-details {
+    position: absolute;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    width: 100%;
+    height: 60%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+p{
+    margin:0px;
+}
